@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777864379524",
+    "project_id": "autopixel-75f39",
+    "storage_bucket": "autopixel-75f39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777864379524:android:c39389084749b30d3696d1",
+        "android_client_info": {
+          "package_name": "com.example.autopixel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777864379524-isr01kgebep7pn8kaqm0nq7sklpd4ed3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7L5DCP-bt8wjNy_kzI9Fb1W7u58XIC0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777864379524-isr01kgebep7pn8kaqm0nq7sklpd4ed3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
